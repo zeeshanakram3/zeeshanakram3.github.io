@@ -38,19 +38,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           Collected and Analyzed data pertinent to ads served on Alexa top 500 sites; studied different characteristics of ads such as language, area served, target audience, etc. Examined the impact of different Circumvention mechanisms on the online advertising system. Devised a mechanism to serve geographically relevant ads to users in Tor Browser without undermining their anonymity.      
       - layout: top-middle
-        title: Analyzing Newly Listed Coins on Cryptoassets Websites
+        title: Analyzing Newly Listed Cryptoassets
         additional_links:
-          - title:  https://github.com/zeeshanakram3/trading 
+          - title: https://github.com/zeeshanakram3/trading 
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         description: | 
           Created a project for analyzing tading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
       - layout: top-middle
-        title: Analyzing Newly Listed Cryptoassets
+        title: NFT Marketplace on NEAR
+        additional_links:
+          - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
+            icon: fab fa-github
+        description: | # this will include new lines to allow paragraphs
+          Created Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
+      - layout: top-middle
+        title: NFT Marketplace on NEAR
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  https://github.com/zeeshanakram3/trading 
+          - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -59,7 +65,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Created a project for analyzing tading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
+          Created Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
   - title: Experience
     layout: list
     content:
