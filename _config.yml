@@ -46,7 +46,7 @@ content:
             icon: fab fa-github
             url: https://github.com/zeeshanakram3/trading 
         description: | 
-          Created a project for analyzing tading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
+          Created a project for analyzing trading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
       - layout: top-middle
         title: Tor Research Project
         description: | 
