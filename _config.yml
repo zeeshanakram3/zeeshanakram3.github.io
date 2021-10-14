@@ -67,15 +67,14 @@ content:
         title: Lahore University of Management Sciences
         sub_title: BS Computer Science
         caption: 2015 - 2019
-        quote: >
-          Relevant Courses:
+     #   quote: >
+        description: | # this will include new lines to allow paragraphs
+         Relevant Courses:
             Advanced Programming
             Network Security
             Topics in Internet Research
             Deep Learning
             Principles and Techniques of Data Science
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
