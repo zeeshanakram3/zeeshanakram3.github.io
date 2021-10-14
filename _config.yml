@@ -21,7 +21,7 @@ linkedin_username: mzeeshanakram
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Zeeshan. I am BS Computer Science graduate and a software engineer working in Blockchain space.  I am primarily interested in distributed systems and computer networks, and consesus algorithms.
+  Hi, my name is Zeeshan. I am BS Computer Science graduate and a software engineer working in Blockchain space.  I am primarily interested in distributed systems and computer networks, and consesus algorithms. I love researching about Blockchain and how its shaping the internet of today and the financial systems.
 
   Technologies: Golang, Rust, Node.js, Clarity, NEAR, Solidity, Gqlgen, AWS, Docker, Terraform, CircleCI 
 
