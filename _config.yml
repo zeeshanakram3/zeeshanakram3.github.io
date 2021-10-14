@@ -21,7 +21,8 @@ linkedin_username: mzeeshanakram
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Zeeshan. I am BS Computer Science graduate and a software engineer working in Blockchain space.  I am primarily interested in distributed systems and computer networks, and consesus algorithms. I have hands-on experience in designing, developing, and deploying cloud native applications on AWS using IaC and CI/CD tools. I love functional programming and try to employ it in my work. I love researching about Blockchain and how its shaping the internet and the financial systems. 
+  Hi, my name is Zeeshan. I am BS Computer Science graduate and a software engineer working in Blockchain space. I am primarily interested in distributed systems and computer networks, and consesus algorithms. I actively code in blockchain and research on what makes one blockchain different from other. As a software engineer, I also have hands-on experience in designing, developing, and deploying cloud native applications on AWS using IaC and CI/CD tools. I love functional programming and try to employ it in my work. I am fascinated by Blockchain tech is revolutionizing the world with different technological transitions happening in DeFi and NFT space.
+
 
   **Technologies**: Golang, Rust, Node.js, Clarity, NEAR, Solidity, Gqlgen, AWS, Docker, Terraform, CircleCI 
 
