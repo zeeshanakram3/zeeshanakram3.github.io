@@ -33,7 +33,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-left
         title: Serving Geographical Relevant Ads while Preserving Anonymity
         description: | # this will include new lines to allow paragraphs
           Collected and Analyzed data pertinent to ads served on Alexa top 500 sites; studied different characteristics of ads such as language, area served, target audience, etc. Examined the impact of different Circumvention mechanisms on the online advertising system. Devised a mechanism to serve geographically relevant ads to users in Tor Browser without undermining their anonymity.      
