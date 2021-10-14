@@ -74,6 +74,7 @@ content:
         caption: June 2019 - July 2020 
         description: | # this will include new lines to allow paragraphs
           I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, React, MongoDB, Postgres  - title: Education
+  - title: Education
     layout: list
     content:
       - layout: top-left
