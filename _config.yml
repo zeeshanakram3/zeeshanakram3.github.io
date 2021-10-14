@@ -33,8 +33,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
-        title: Serving Geographical Relevant Ads while Preserving Anonymity
+      - layout: top-middle
+        title: Tor Research Project
         description: | # this will include new lines to allow paragraphs
           Collected and Analyzed data pertinent to ads served on Alexa top 500 sites; studied different characteristics of ads such as language, area served, target audience, etc. Examined the impact of different Circumvention mechanisms on the online advertising system. Devised a mechanism to serve geographically relevant ads to users in Tor Browser without undermining their anonymity.      
       - layout: left
@@ -46,7 +46,7 @@ content:
         description: | 
           Created a project for analyzing tading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
       - layout: left
-        title: Analyzing Newly Listed Coins on Cryptoassets Websites
+        title: Analyzing Newly Listed Cryptoassets
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
