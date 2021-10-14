@@ -57,33 +57,23 @@ content:
     layout: list
     content:
       - layout: left
-        title: Software Engineer
-        sub_title: Job title
-        caption: June 2019 - July 2020 
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Software Engineer(Blockchian)
+        sub_title: Tintash
+        caption: July 2021 - Continue
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, React, MongoDB, Postgres
+          Working as Blockchain engineer creating dapps on Stacks Blockchain ecosystem using Clarity language.
       - layout: left
-        title: Software Engineer
-        sub_title: Job title
+        title: Lucidspring Inc.
+        sub_title: Software Engineer
         caption: August 2020 - July 2021 
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components.
+          Developed both monolith and microservices applications in Golang, deployed them on AWS using Lambda, API Gateway, EC2. Worked on Rest and Graphql APIs.Worked as a blockchain developer. Developed dapps on NEAR protocol and Solana using Rust.Technologies: Golang, Rust, AWS, Terraform, Circleci, Graphql, Gqlgen
       - layout: left
-        title: Software Engineer
-        sub_title: Job title
-        caption: July 2021 - 
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Remote Work
+        sub_title: Software Engineer 
+        caption: June 2019 - July 2020 
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components.
-  - title: Education
+          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, React, MongoDB, Postgres  - title: Education
     layout: list
     content:
       - layout: top-left
