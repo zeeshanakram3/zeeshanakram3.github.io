@@ -21,13 +21,9 @@ linkedin_username: mzeeshanakram
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Zeeshan. I am BS Computer Science graduate and a software engineer working in Blockchain space.  I am primarily interested in distributed systems and computer networks, and consesus algorithms.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Technologies: Golang, Rust, Node.js, Clarity, NEAR, Solidity, Gqlgen, AWS, Docker, Terraform, CircleCI 
 
 content:
   - title: Projects # Title for the section
