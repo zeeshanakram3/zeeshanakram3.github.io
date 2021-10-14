@@ -42,6 +42,7 @@ content:
         additional_links:
           - title: https://github.com/zeeshanakram3/trading 
             icon: fab fa-github
+            url: https://github.com/zeeshanakram3/trading 
         description: | 
           Created a project for analyzing tading data of newly listed coins on messari.io, coinmarketcap, and coingeko for making effecient trading decisions.
       - layout: top-middle
@@ -49,6 +50,7 @@ content:
         additional_links:
           - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
             icon: fab fa-github
+            url: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
         description: | # this will include new lines to allow paragraphs
           Created Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
       - layout: top-middle
