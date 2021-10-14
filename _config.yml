@@ -70,11 +70,11 @@ content:
      #   quote: >
         description: | # this will include new lines to allow paragraphs
          Relevant Courses:
-            Advanced Programming
-            Network Security
-            Topics in Internet Research
-            Deep Learning
-            Principles and Techniques of Data Science
+          - Advanced Programming
+          - Network Security
+          - Topics in Internet Research
+          - Deep Learning
+          - Principles and Techniques of Data Science
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
