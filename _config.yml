@@ -26,6 +26,7 @@ about_content: | # this will include new lines to allow paragraphs
   **Technologies**: Golang, Rust, Node.js, Clarity, NEAR, Solidity, Gqlgen, AWS, Docker, Terraform, CircleCI 
 
 content:
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -53,6 +54,7 @@ content:
         title: Emulating impact of EVs
         description: |
           Devised an optimal night scheduling solution for electric vehicle charging by analyzing LESCO last six months of Grid Load data, available at the granularity of 15 mins; devised different Machine Learning and Regression techniques in R to better forecast energy usage; the model predicted household electricity usage with 97% accuracy.
+          
   - title: Experience
     layout: list
     content:
@@ -73,7 +75,8 @@ content:
         sub_title: Software Engineer 
         caption: June 2019 - July 2020 
         description: | # this will include new lines to allow paragraphs
-          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, React, MongoDB, Postgres  - title: Education
+          I worked as a full-stack Web Developer in the MERN stack. I developed several web apps and interactive front-end components. Technologies: Node.js, React, MongoDB, Postgres
+          
   - title: Education
     layout: list
     content:
@@ -91,12 +94,13 @@ content:
           - Principles and Techniques of Data Science
           - Operating Systems
           - Databases
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Blockchain and software engineering some of my interests/hobbies are:
        - Table tennis
-       - Community service
+       - Workout/Gym
        - Crypto trading
 
 # Footer
