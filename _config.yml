@@ -51,23 +51,12 @@ content:
           - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
             icon: fab fa-github
             url: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
-        description: | # this will include new lines to allow paragraphs
-          Created Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
+        description: |
+          Created Dapps, Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
       - layout: top-middle
-        title: NFT Marketplace on NEAR
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Created Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
+        title: Emulating impact of EVs
+        description: |
+          Devised an optimal night scheduling solution for electric vehicle charging by analyzing LESCO last six months of Grid Load data, available at the granularity of 15 mins; devised different Machine Learning and Regression techniques in R to better forecast energy usage; the model predicted household electricity usage with 97% accuracy.
   - title: Experience
     layout: list
     content:
