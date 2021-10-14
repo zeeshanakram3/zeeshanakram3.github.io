@@ -63,7 +63,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Lahore University of Management Sciences
         sub_title: BS Computer Science
         caption: 2015 - 2019
