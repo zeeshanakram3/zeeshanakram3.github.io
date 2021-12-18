@@ -32,19 +32,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: NFT Marketplace on NEAR
-        additional_links:
-          - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
-            icon: fab fa-github
-            url: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
-        description: |
-          Created Dapps, Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
-      - layout: top-middle
         title: Integrating Chainlink with Stacks Blockchain
         additional_links:
           - title: https://bitbucket.org/tintash/chainlink-integration/src/master
             icon: fab fa-bitbucket
             url: https://bitbucket.org/tintash/chainlink-integration/src/master
+        description: |
+          Work on the Stacks-Chainlink integration. I worked on automating EI-EA registration, job creation, integration testing using Jest and Docker/Docker-Compose, Stacks node's Testnet deployment, subscribing to oracle contract events on the Testnet. Integration testing required automated running of different docker containers in a predefined order and cleaning the whole docker/docker-compose environment(containers, volumes) after the tests were done.I set up docker-compose configurations and defined the order by which containers should spin up.
+      - layout: top-middle
+        title: NFT Marketplace on NEAR
+        additional_links:
+          - title: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
+            icon: fab fa-github
+            url: https://github.com/zeeshanakram3/near-blockchain-smartcontracts
         description: |
           Created Dapps, Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
       - layout: top-middle
