@@ -40,6 +40,14 @@ content:
         description: |
           Created Dapps, Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
       - layout: top-middle
+        title: Integrating Chainlink with Stacks Blockchain
+        additional_links:
+          - title: https://bitbucket.org/tintash/chainlink-integration/src/master
+            icon: fab fa-bitbucket
+            url: https://bitbucket.org/tintash/chainlink-integration/src/master
+        description: |
+          Created Dapps, Social coins, NFTs, NFT marketplace, and content-based NFT protocols on the NEAR blockchain using Rust targeting WASM VM.
+      - layout: top-middle
         title: Analyzing Newly Listed Cryptoassets
         additional_links:
           - title: https://github.com/zeeshanakram3/trading 
