@@ -38,7 +38,7 @@ content:
             icon: fab fa-bitbucket
             url: https://bitbucket.org/tintash/chainlink-integration/src/master
         description: |
-          Work on the Stacks-Chainlink integration. I worked on automating EI-EA registration, job creation, integration testing using Jest and Docker/Docker-Compose, Stacks node's Testnet deployment, subscribing to oracle contract events on the Testnet. Integration testing required automated running of different docker containers in a predefined order and cleaning the whole docker/docker-compose environment(containers, volumes) after the tests were done.I set up docker-compose configurations and defined the order by which containers should spin up.
+          Worked on the Stacks-Chainlink integration. I worked on automating EI-EA registration, job creation, integration testing using Jest and Docker/Docker-Compose, Stacks node's Testnet deployment, subscribing to oracle contract events on the Testnet. Integration testing required automated running of different docker containers in a predefined order and cleaning the whole docker/docker-compose environment(containers, volumes) after the tests were done. I set up docker-compose configurations and defined the order by which containers should spin up.
       - layout: top-middle
         title: NFT Marketplace on NEAR
         additional_links:
